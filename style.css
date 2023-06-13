@@ -539,3 +539,8 @@ body {
         margin: 25px 0px 10px 0px;
     }
 }
+
+.img-product,
+.info-img>img {
+     object-fit: contain;
+}
